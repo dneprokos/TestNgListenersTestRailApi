@@ -18,7 +18,7 @@
         <json-simple.version>1.1</json-simple.version>
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
-        <jackson-databind.version>2.11.0</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
         <jcommander.version>1.78</jcommander.version>
     </properties>
 
